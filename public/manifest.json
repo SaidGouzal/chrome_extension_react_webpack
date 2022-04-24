@@ -1,0 +1,11 @@
+{
+  "description": "Chrome extension using react",
+  "host_permissions": ["*://*/"],
+  "manifest_version": 3,
+  "name": "Demo",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_security_policy": {}
+}
